@@ -201,6 +201,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*Valorant · Updated 2026-11-16 · Shared under the MIT License*
+*Valorant · Updated 2026-11-17 · Shared under the MIT License*
 
-<!-- last reviewed 2026-11-16 -->
+<!-- last reviewed 2026-11-17 -->
